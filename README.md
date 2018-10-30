@@ -1,2 +1,2 @@
-# water_level_documentation
-Full descriptive explanation of automatic water level testing using Lora Tech
+# Automatic Waterlevel detection using Lora Technology
+This application is used by Auroville for monitring well water depth.
